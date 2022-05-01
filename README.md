@@ -22,7 +22,7 @@ There were **4,333 total reviews**. Of those reviews, **15** were paid Vine revi
 
 ![Percentage_5-star_Reviews](https://user-images.githubusercontent.com/95515322/166132507-09d7db59-ecd9-4361-bac2-40b317a18612.png)
 
-There were **31.91% of paid Vine reviews were 5-star reviews.**
+**31.91% of paid Vine reviews were 5-star reviews.**
 
 **0.35% of total 5-star reviews were paid Vine reviews.**
 
